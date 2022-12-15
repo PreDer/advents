@@ -1,4 +1,4 @@
- file = open("input")
+file = open("input")
 
 # a-z  1  - 26  -> 97 - 122 | -96
 # A-Z  27 - 52  -> 65 - 90  | -38 a
